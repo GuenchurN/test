@@ -1,5 +1,5 @@
 # README #
-Esto es un repositorio de ..
+Crear una aplicacion web en la que el usuario pueda resgistrar tareas,su prioridad y categoria,la cual debe ser seleccionada desde un listado predeterminado
 
 ### NOMBRE Y APELLIDO : ##
 IGNACIO GUENCHUR
